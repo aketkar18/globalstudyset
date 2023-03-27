@@ -1,4 +1,4 @@
-# Global Study Set
+# Global Study Set - High School Project
 
 This project was my first Java project during high school, aimed at helping users learn new languages through flashcards. The program allows users to automatically generate flashcards with phrases in two different languages. Users can study the flashcards, take quizzes, manage favorites, and track their progress.
 
