@@ -2,9 +2,6 @@
  * The Card class creates an object that holds a strings for a front side and back side
  * that are the same phrase in different languages using data.csv
  * @author Anuj Ketkar
- * Teacher Name: Mrs. Ishman
- * Period: 0
- * Due Date: 5-07-2020
  */
 
 import java.io.File;
@@ -136,10 +133,7 @@ public class Card implements Comparable<Card>
      */
     public boolean equals(Card c)
     {
-        if (this.getFront().equals(c.getFront()) && this.getBack().equals(c.getBack()))
-            return true;
-        else
-            return false;
+        return this.getFront().equals(c.getFront()) && this.getBack().equals(c.getBack());
     }
 
     /**

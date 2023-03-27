@@ -1,9 +1,6 @@
 /**
  * The Main class contains the main method that handles the menus and user inputs to get the program working
  * @author Anuj Ketkar
- * Teacher Name: Mrs. Ishman
- * Period: 0
- * Due Date: 5-17-2020
  */
 
 import java.io.FileNotFoundException;

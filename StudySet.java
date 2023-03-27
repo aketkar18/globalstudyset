@@ -2,9 +2,6 @@
  * The StudySet class creates and manages a queue of cards
  * that allows users to study by viewing or taking a quiz
  * @author Anuj Ketkar
- * Teacher Name: Mrs. Ishman
- * Period: 0
- * Due Date: 5-11-2020
  */
 
 import java.io.FileNotFoundException;
